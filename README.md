@@ -5,7 +5,7 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan LP12 dalam mata kuliah DPBO, untuk
 
 ## Screenshoot
 o> Home <br>
-<img src="https://github.com/Alfinnnnn/LATIHAN11DPBO2022/blob/main/SS/1%20-%20HOME.png"> <br>
+<img src="https://github.com/Alfinnnnn/LATIHAN12DPBO2022/blob/main/SS/1.png"> <br>
 <br> o> Author <br>
 <img src="https://github.com/Alfinnnnn/LATIHAN11DPBO2022/blob/main/SS/2%20-%20author.png"> <br>
 <br> o> Member <br>
