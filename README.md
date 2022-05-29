@@ -18,5 +18,6 @@ o> Home <br>
 > notes
 > 
 > masih sangat-sangat banyak yang kurang, mohon maaf kang/teh 🙏🏻
+> Juga Lupa buat submit ke formnya kemarin, jadinya telat submit :"(
 > 
 > Terima Kasih 🙏🏻
